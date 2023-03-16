@@ -21,5 +21,10 @@ docker build -t emalak .
 <br>
 docker run -p 28003:28003 emalak
 
+### Альтернативный вариант сборки и запуска
+docker pull ghcr.io/u1ug/emalak-invest:latest
+<br>
+docker run -p 28003:28003 ghcr.io/u1ug/emalak-invest
+
 ### Web-приложение
 http://92.100.158.108:28003/
