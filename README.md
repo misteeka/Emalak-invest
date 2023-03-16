@@ -10,5 +10,6 @@
 * markowitz.py - реализация модели Марковица
 * optimizer.py - оптимизация портфеля
 
-### Сборка проекта
+### Сборка и запуск проекта
 docker build -t emalak .
+docker run -p 28003:28003 emalak
