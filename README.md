@@ -13,6 +13,10 @@
 * optimizer.py - оптимизация портфеля
 
 ### Сборка и запуск проекта
+git clone https://github.com/u1ug/Emalak-invest
+<br>
+cd Emalak-invest
+<br>
 docker build -t emalak .
 <br>
 docker run -p 28003:28003 emalak
