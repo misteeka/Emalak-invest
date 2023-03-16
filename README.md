@@ -20,3 +20,6 @@ cd Emalak-invest
 docker build -t emalak .
 <br>
 docker run -p 28003:28003 emalak
+
+### Web-приложение
+http://92.100.158.108:28003/
