@@ -28,3 +28,6 @@ docker run -p 28003:28003 ghcr.io/u1ug/emalak-invest
 
 ### Web-приложение
 http://92.100.158.108:28003/
+
+### Docker контейнер
+https://github.com/users/u1ug/packages/container/package/emalak-invest
