@@ -1,5 +1,7 @@
 # Emalak invest
 
+![Go Build](https://github.com/u1ug/Emalak-invest/actions/workflows/docker-image.yml/badge.svg)
+
 ### Структура проекта
 * config - модуль для чтения конфигурационного файла
 * moex - модуль для получения данных Московской биржи через <a href="https://pypi.org/project/apimoex/">API</a>
