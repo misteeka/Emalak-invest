@@ -12,4 +12,5 @@
 
 ### Сборка и запуск проекта
 docker build -t emalak .
+<br>
 docker run -p 28003:28003 emalak
